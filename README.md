@@ -1,1 +1,2 @@
-Most import thing is to instal teserract in your VM
+Instal teserract in your VM.
+Have gun to track your progress 
