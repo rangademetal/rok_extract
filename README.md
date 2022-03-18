@@ -1,2 +1,2 @@
-Instal teserract in your VM.
-Have gun to track your progress 
+Instal teserract in your VM.<br/>
+Have fun to track your progress 
